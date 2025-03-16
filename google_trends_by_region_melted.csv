@@ -1,0 +1,37 @@
+Region,Loyalty_Programme,Search_Term_Popularity
+Western Cape,Discovery_Miles,34
+Gauteng,Discovery_Miles,31
+KwaZulu-Natal,Discovery_Miles,25
+Eastern Cape,Discovery_Miles,23
+Free State,Discovery_Miles,26
+Northern Cape,Discovery_Miles,22
+North West,Discovery_Miles,22
+Mpumalanga,Discovery_Miles,21
+Limpopo,Discovery_Miles,20
+Western Cape,FNB_eBucks,30
+Gauteng,FNB_eBucks,35
+KwaZulu-Natal,FNB_eBucks,34
+Eastern Cape,FNB_eBucks,37
+Free State,FNB_eBucks,37
+Northern Cape,FNB_eBucks,40
+North West,FNB_eBucks,42
+Mpumalanga,FNB_eBucks,39
+Limpopo,FNB_eBucks,42
+Western Cape,Standard_Bank_UCount,20
+Gauteng,Standard_Bank_UCount,19
+KwaZulu-Natal,Standard_Bank_UCount,21
+Eastern Cape,Standard_Bank_UCount,24
+Free State,Standard_Bank_UCount,23
+Northern Cape,Standard_Bank_UCount,27
+North West,Standard_Bank_UCount,22
+Mpumalanga,Standard_Bank_UCount,24
+Limpopo,Standard_Bank_UCount,21
+Western Cape,Nedbank_Greenbacks,16
+Gauteng,Nedbank_Greenbacks,15
+KwaZulu-Natal,Nedbank_Greenbacks,20
+Eastern Cape,Nedbank_Greenbacks,16
+Free State,Nedbank_Greenbacks,14
+Northern Cape,Nedbank_Greenbacks,11
+North West,Nedbank_Greenbacks,14
+Mpumalanga,Nedbank_Greenbacks,16
+Limpopo,Nedbank_Greenbacks,17
